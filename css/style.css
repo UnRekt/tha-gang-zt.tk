@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style-type: none;
+	font-family: 'Bai Jamjuree';
+}
+body{
+	background-color: #000;
+	background: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url(../img/background.jpeg);
+	background-size: cover;
+	color: #fff;
+}
+.logoName{
+	font-size: 50px;
+	text-align: center;
+	width: 100%;
+	padding: 20px 0;
+}
